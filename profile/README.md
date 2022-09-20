@@ -1,6 +1,6 @@
 ## OriginByte
 
-OriginByte provide fundamental pieces of tech required for development on top of Sui
+Building standards and tooling to make like easier for games and NFT creators on Sui
 
 * NFT Protocol
 * SUI Unity SDK
