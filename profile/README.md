@@ -2,7 +2,7 @@
 
 Building standards and tooling for Sui to simplify the development of games and NFTs
 * NFT Protocol
-* SUI Unity SDK
+* Sui Unity SDK
 
 <!--
 
