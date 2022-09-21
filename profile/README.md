@@ -1,7 +1,6 @@
 ## OriginByte
 
-Building standards and tooling to make like easier for games and NFT creators on Sui
-
+Building standards and tooling for Sui to simplify the development of games and NFTs
 * NFT Protocol
 * SUI Unity SDK
 
