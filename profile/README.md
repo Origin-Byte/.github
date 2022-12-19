@@ -2,7 +2,7 @@
 
 Building standards and tooling for Sui to simplify the development of games and NFTs
 * NFT Protocol
-* Syrup - NFT Liquidity Layer
+* NFT Liquidity Layer
 * Sui Unity SDK
 * Sui Unreal Engine SDK
 
